@@ -1,0 +1,21 @@
+h {
+  color:red;font-style:italic;font-size:10px;
+}
+p{
+  color:green;font-size:20px;
+}
+#line1{
+  color:red;
+  font-size:14px;
+}
+.text-area{
+  background-color: red;
+  width: 50%;
+}
+.deliver{
+  color:white;
+  font-size: 15px;
+}
+tex-box{
+  border box:2px solid;padding: 6px;background-color:red;
+}
